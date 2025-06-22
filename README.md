@@ -21,15 +21,9 @@ A sleek and responsive React web application that allows users to **search** for
 ## 🛠️ Tech Stack
 
 - **React**
-- **Tailwind CSS** (assumed for styling)
+- **Tailwind CSS**
 - **TMDB API**
 - **react-use** for `useDebounce`
 
 ---
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/your-username/movie-finder-app.git
-cd movie-finder-app
-npm install
