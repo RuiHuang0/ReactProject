@@ -2,8 +2,6 @@
 
 A sleek and responsive React web application that allows users to **search** for movies or **browse** trending ones using the [TMDB API](https://www.themoviedb.org/). Powered by React hooks, debounced search, and clean component architecture.
 
-![Hero Banner](./public/hero.png)
-
 ---
 
 ## 🚀 Features
